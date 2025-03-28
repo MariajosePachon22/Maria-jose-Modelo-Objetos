@@ -19,16 +19,25 @@ Abre una terminal, en el caso de visual studio code con la tecla F1, que te llev
 Descripción del Código 
 
 C++:
+
 1.Estructuras de datos: Utiliza dos vectores bidimensionales, vertices para almacenar los vértices y caras para almacenar las caras.
+
 2.Bucle principal: El programa ejecuta un bucle infinito que ofrece al usuario un menú con opciones. Según la opción seleccionada, el programa ejecuta la acción correspondiente.
+
 3.Ingreso de vértices y caras: Los vértices se ingresan como coordenadas x, y, z y se almacenan en un vector de flotantes. Las caras se almacenan como índices de vértices en un vector de enteros.
+
 4.Impresión de figuras: Cuando se selecciona la opción de imprimir la figura, el programa muestra los vértices y las caras.
+
 5.Se utilizo ".size" con el fin de indicar el temaño del vertice y el "push_back" para insertar elemntos 
 
 Python:
+
 1.Estructuras de datos: Al igual que en C++, se usan listas para almacenar los vértices y las caras.
+
 2.Interactividad: El programa utiliza input() para recibir entradas del usuario y mostrar las opciones disponibles.
+
 3.El programa sigue la misma lógica de interacción que el código en C++, donde se permite ingresar vértices, caras y ver la figura resultante.
+
 4.Verificación de entradas: Asegura que los índices ingresados para las caras sean válidos, es decir, que estén dentro del rango de vértices existentes.
 
 Ejemplo de Uso
