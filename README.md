@@ -76,12 +76,16 @@ Errores Comunes
 
 1.Índice de vértice incorrecto: Si ingresas un índice fuera del rango de vértices existentes, el programa mostrará un error.
 Solución: Asegúrate de usar índices válidos.
+
 2.Intentar crear una cara sin vértices: Si no has ingresado vértices, no podrás crear una cara.
 Solución: Ingresa al menos un vértice antes de crear una cara.
+
 3.Cantidad de vértices para la cara mayor a los disponibles: Si intentas usar más vértices de los que has ingresado, el programa dará un error.
 Solución: Verifica que la cantidad de vértices sea correcta.
+
 4.Entrada no numérica para vértices: Si ingresas un valor no numérico al definir un vértice, el programa fallará.
 Solución: Ingresa solo números válidos (flotantes o enteros). 
+
 5.Opción no válida en el menú: Si seleccionas una opción fuera del rango (1-4), el programa te notificará.
 Solución: Elige una opción válida del menú.
 
